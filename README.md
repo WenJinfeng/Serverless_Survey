@@ -3,7 +3,7 @@
 
 Rise of the Planet of Serverless Computing: A Systematic Review
 
-This work has been accepted in ACM Transactions on Software Engineering and Methodology (TOSEM).
+This work has been accepted in **ACM Transactions on Software Engineering and Methodology (TOSEM)**.
 
 There are mainly ten columns in our open-sourced Excel file. Specifically:
 
